@@ -19,5 +19,5 @@ Data Service XML
 JSON Data Query
 XML Data Query
 Application: myWcfDataServiceDemo_APP.zip
-Visual Studio Solution: myWcfDataServiceDemo_VSS.zip 
+Visual Studio Solution: myWcfDataServiceDemo_VSS.zip Download from http://www.katiegirl.net/projects.htm 
 
